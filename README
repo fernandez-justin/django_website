@@ -1,2 +1,9 @@
 Django Website for personal use
 
+So far I have implemeted a polls app that has different questions with associated answer pages.
+
+A basic admin app was also developed.
+
+All of this code has come from https://docs.djangoproject.com/en/3.0/intro/.
+
+The purpose of this project is to get more familiar with Django and website building but also how databases tie into websites.
